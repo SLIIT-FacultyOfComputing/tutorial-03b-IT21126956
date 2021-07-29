@@ -30,8 +30,4 @@ int main() {
     return 0;
 }
 
-int volume(int height, int width, int length){
-  int volume = height * width * length;
-  return volume;
-}
-
+// Implement the Volume() function here
